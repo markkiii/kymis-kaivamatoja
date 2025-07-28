@@ -3,8 +3,8 @@ game 'gta5'
 lua54 'yes'
 
 author 'markkiii / Kymis'
-description 'Pohjankylä - kaiva matoja keskimaasta.'
-version 'DEV'
+description 'Kaiva matoja keskimaasta.'
+version '1.0.0'
 
 client_scripts {
     'client/digging_worms.lua',
